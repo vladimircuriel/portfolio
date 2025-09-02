@@ -114,6 +114,12 @@ Cuenta con 3 etapas:
 - Deploy: Se conecta al servidor VPS en DigitalOcean, detiene y elimina los contenedores Docker existentes de la aplicación y la base de datos, descarga las nuevas imágenes Docker de Docker Hub y crea y ejecuta los nuevos contenedores Docker de la aplicación y la base de datos.
 
 
+## Autores
+
+- [Vladimir Curiel](https://vladimircuriel.com/) - Desarrollador principal de la versión 2.0.0 | NextJS como frameworks Principal
+- [Natasha Lopez](https://www.linkedin.com/in/natasha-lop-b22845337/) - Co-desarrolladora de la versión 1.0.0 | Javalin como frameworks Principal
+
+
 ### Repositorio de GitHub
 
 ::github{repo="vladimircuriel/linkloom"}
