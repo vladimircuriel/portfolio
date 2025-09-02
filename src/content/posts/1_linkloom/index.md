@@ -116,8 +116,15 @@ Cuenta con 3 etapas:
 
 ## Autores
 
-- [Vladimir Curiel](https://vladimircuriel.com/) - Desarrollador principal de la versión 2.0.0 | NextJS como frameworks Principal
-- [Natasha Lopez](https://www.linkedin.com/in/natasha-lop-b22845337/) - Co-desarrolladora de la versión 1.0.0 | Javalin como frameworks Principal
+### Versión 2.0.0 - NextJS
+
+- [Vladimir Curiel](https://vladimircuriel.com/) - Desarrollador principal
+
+### Versión 1.0.0 - Javalin
+
+- [Vladimir Curiel](https://vladimircuriel.com/) - Co-desarrollador
+- [Natasha Lopez](https://www.linkedin.com/in/natasha-lop-b22845337/) - Co-desarrolladora
+
 
 
 ### Repositorio de GitHub
