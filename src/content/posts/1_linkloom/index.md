@@ -113,6 +113,23 @@ Cuenta con 3 etapas:
 - Build and push: Construye las imágenes Docker de la aplicación y la base de datos, las etiqueta y las sube a Docker Hub.
 - Deploy: Se conecta al servidor VPS en DigitalOcean, detiene y elimina los contenedores Docker existentes de la aplicación y la base de datos, descarga las nuevas imágenes Docker de Docker Hub y crea y ejecuta los nuevos contenedores Docker de la aplicación y la base de datos.
 
+## Tecnologías utilizadas
+
+- NextJS
+- MongoDB
+- Mongoose
+- TailwindCSS
+- React
+- JavaScript
+- TypeScript
+- ReCharts
+- Grafana
+- Loki
+- Prometheus
+- Docker
+- DigitalOcean
+- Traefik
+- GitHub Actions
 
 ## Autores
 
