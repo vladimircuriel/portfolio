@@ -115,21 +115,23 @@ Cuenta con 3 etapas:
 
 ## Tecnologías utilizadas
 
-- NextJS
-- MongoDB
-- Mongoose
-- TailwindCSS
-- React
-- JavaScript
-- TypeScript
-- ReCharts
-- Grafana
-- Loki
-- Prometheus
-- Docker
-- DigitalOcean
-- Traefik
-- GitHub Actions
+- [NextJS](https://nextjs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [React](https://react.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ReCharts](https://recharts.org/en-US/)
+- [Grafana](https://grafana.com/)
+- [Loki](https://grafana.com/oss/loki/)
+- [Prometheus](https://prometheus.io/)
+- [Docker](https://www.docker.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [Traefik](https://traefik.io/)
+- [GitHub Actions](https://github.com/features/actions)
+
+
 
 ## Autores
 
