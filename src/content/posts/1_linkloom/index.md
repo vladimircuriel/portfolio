@@ -17,7 +17,7 @@ Para visitar la aplicación en línea, puedes hacer clic [aquí](https://ll.o5d.
 
 [Linkloom](https://ll.o5d.dev/) es una aplicación web para acortar urls, generar códigos QR y recolectar sus estadísticas. Permite a los usuarios registrarse, iniciar sesión y gestionar sus urls acortadas, esta ultima disponible para usuarios registrados. La aplicación también ofrece estadísticas de las visitas a las urls acortadas a los usuarios en el panal principal. Los usuarios puede buscar y filtrar sus urls acortadas, asimismo como navegar entre páginas de resultados.
 
-### Listado Funcionalidades principales para usuarios
+### Listado de funcionalidades usuarios
 
 - Acortar urls
 - Generar códigos QR para las urls acortadas
@@ -50,7 +50,7 @@ Para visitar la aplicación en línea, puedes hacer clic [aquí](https://ll.o5d.
 
 El panel para los administradores permite gestionar los usuarios registrados en la aplicación. Los administradores pueden listar, buscar, filtrar y paginar los usuarios registrados y editarlos. Además, pueden eliminar usuarios registrados. Asi mismo pueden ver las estadísticas de las visitas a las urls acortadas por todos los usuarios registrados, tiene capacidad para desactivar la redirection a las urls acortadas, en caso de que se detecte que una url acortada es maliciosa. Cuenta con metricas de uso de la aplicación, como el número de usuarios registrados, el número de urls acortadas, el número de visitas a las urls acortadas, a la pagina, entre otras.
 
-### Listado Funcionalidades principales para administradores
+### Listado de funcionalidades administradores
 
 - Gestión de usuarios registrados (listar, buscar, filtrar, paginar, eliminar, editar)
 - Ver estadísticas de las visitas a las urls acortadas por todos los usuarios registrados

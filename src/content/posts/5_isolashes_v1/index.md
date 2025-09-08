@@ -1,6 +1,6 @@
 ---
 title: Isolashes V1
-published: 2025-09-10
+published: 2024-08-29
 description: 'Landing Web App para el salón Isolashes: reserva de citas, tienda virtual y dashboard admin.'
 image: './cover.webp'
 tags: [NestJS, Prisma, ZenStack, NextJS, React, TailwindCSS, NextAuth, PostgreSQL]
@@ -16,7 +16,7 @@ draft: false
 
 ## Landing Page
 
-### Listado de funcionalidades principales
+### Listado de funcionalidades para usuarios
 
 - **Página de inicio**: Presenta la marca, servicios destacados y llamada a la acción para reservar citas.
 - **Página de servicios**: Detalla todos los servicios ofrecidos con descripciones y precios.
@@ -36,7 +36,7 @@ draft: false
 
 ## Dashboard de Administrador
 
-### Listado de funcionalidades principales
+### Listado de funcionalidades para administradores
 
 - **Gestión de servicios**: Añadir, editar o eliminar servicios ofrecidos en el salón.
 - **Gestión de productos**: Añadir, editar o eliminar productos en la tienda.

@@ -1,6 +1,6 @@
 ---
 title: LocAI | Local Multi-Model AI ChatBot
-published: 2025-09-07
+published: 2024-07-05
 description: 'Aplicación web de chat con múltiples modelos de lenguaje grande (LLM) que se ejecutan completamente en el navegador.'
 image: './cover.png'
 tags: [Astro, React, WebGPU, IndexedDB, ServiceWorker, WebLLM, TypeScript, TailwindCSS]
@@ -17,7 +17,7 @@ Para visitar la aplicación en línea, puedes hacer clic [aquí](https://locai.o
 
 [LocAI Chat](https://locai.o5d.dev/) es una aplicación web de chat con múltiples modelos de lenguaje grande (LLM) que se ejecutan completamente en el navegador. No requiere cuentas ni llamadas a API remotas, lo que garantiza una inferencia segura y privada en tu dispositivo.
 
-### Listado Funcionalidades principales para usuarios
+### Listado de funcionalidades
 
 - Inferencia del lado del cliente: Descarga y ejecuta LLMs a través de WebGPU para un rendimiento acelerado por GPU.
 - Soporte para múltiples modelos: Navega, selecciona y cambia entre docenas de modelos de MLC-AI (por ejemplo, Qwen2, Llama-3, Phi-3, Gemma-2).

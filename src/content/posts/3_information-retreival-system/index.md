@@ -1,6 +1,6 @@
 ---
 title: Classes Information Retrieval System
-published: 2025-09-08
+published: 2024-08-01
 description: 'Sistema de recuperación de información local que construye un índice TF-IDF con procesamiento NLP para consultas relevancia-ordenadas, todo sin servicios externos.'
 image: './cover.png'
 tags: [Python, NLTK, scikit-learn, NLP, Streamlit, Poetry, SciPy, Docker, TF-IDF]
@@ -22,7 +22,7 @@ draft: false
 - Es agnóstico al esquema de datos: basta apuntar al DataFrame y la columna deseada.
 - Diseñado para extenderse a algoritmos más avanzados (BM25, embeddings neuronales).
 
-### Funcionalidades principales para usuarios
+### Listado de funcionalidades
 
 - **Indexación local**: construye el índice TF-IDF al inicializar, sin dependencias externas.  
 - **Pipeline NLP personalizado**: `query_processing()` gestiona tokenización, normalización y lematización.  
