@@ -63,7 +63,7 @@ Para visitar la aplicación en línea, puedes hacer clic [aquí](https://locai.o
 
 ![GitHub Actions](./actions.webp)
 
-Se cuenta con un flujo de trabajo en GitHub Actions para automatizar el proceso de despliegue de la aplicación y la base de datos. El flujo de trabajo se ejecuta cada vez que se realiza un push en la rama main del repositorio. El flujo de trabajo construye el build de la aplicación y lo despliega en GitHub Pages.
+Se cuenta con un flujo de trabajo en GitHub Actions para automatizar el proceso de despliegue de la aplicación. El flujo de trabajo se ejecuta cada vez que se realiza un push en la rama main del repositorio. El flujo de trabajo construye el build de la aplicación y lo despliega en GitHub Pages.
 
 ## Tecnologías utilizadas
 
