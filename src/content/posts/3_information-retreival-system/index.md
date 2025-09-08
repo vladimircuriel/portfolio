@@ -1,5 +1,5 @@
 ---
-title: Classes Information Retrieval System
+title: Information Retrieval System | TF-IDF & NLP
 published: 2024-08-01
 description: 'Sistema de recuperación de información local que construye un índice TF-IDF con procesamiento NLP para consultas relevancia-ordenadas, todo sin servicios externos.'
 image: './cover.png'
