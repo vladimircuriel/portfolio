@@ -1,5 +1,5 @@
 ---
-title: Isolashes V1
+title: Isolashes V1 | Landing Web App & Admin Dashboard
 published: 2024-08-29
 description: 'Landing Web App para el salón Isolashes: reserva de citas, tienda virtual y dashboard admin.'
 image: './cover.webp'
