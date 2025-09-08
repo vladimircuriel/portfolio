@@ -1,5 +1,5 @@
 ---
-title: Rendimiento de la búsqueda de palabras
+title: Rendimiento de la búsqueda de palabras | Research
 published: 2024-08-01
 description: 'Comparando la eficacia de los algoritmos de búsqueda de palabras en un texto de la librería re de python.'
 image: './cover.png'
