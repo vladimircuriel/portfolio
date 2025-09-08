@@ -1,5 +1,5 @@
 ---
-title: Swift Talk V1
+title: Swift Talk V1 | Real-time Messaging Android App
 published: 2024-10-07
 description: 'Aplicación Android de mensajería en tiempo real, con notificaciones push y autenticación de usuarios mediante Firebase.'
 image: './cover.jpg'
