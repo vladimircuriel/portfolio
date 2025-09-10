@@ -13,9 +13,9 @@ draft: false
 ## Visitar
 Para visitar la aplicación en línea, puedes hacer clic [aquí](https://ll.o5d.dev/) o en la imagen de arriba.
 
-# Linkloom Url Shortener
+# LinkLoom Url Shortener
 
-[Linkloom](https://ll.o5d.dev/) es una aplicación web para acortar urls, generar códigos QR y recolectar sus estadísticas. Permite a los usuarios registrarse, iniciar sesión y gestionar sus urls acortadas, esta ultima disponible para usuarios registrados. La aplicación también ofrece estadísticas de las visitas a las urls acortadas a los usuarios en el panal principal. Los usuarios puede buscar y filtrar sus urls acortadas, asimismo como navegar entre páginas de resultados.
+[LinkLoom](https://ll.o5d.dev/) es una aplicación web para acortar urls, generar códigos QR y recolectar sus estadísticas. Permite a los usuarios registrarse, iniciar sesión y gestionar sus urls acortadas, esta ultima disponible para usuarios registrados. La aplicación también ofrece estadísticas de las visitas a las urls acortadas a los usuarios en el panal principal. Los usuarios puede buscar y filtrar sus urls acortadas, asimismo como navegar entre páginas de resultados.
 
 ### Listado de funcionalidades usuarios
 
