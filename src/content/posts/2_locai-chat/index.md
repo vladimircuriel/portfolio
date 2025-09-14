@@ -77,7 +77,7 @@ Se cuenta con un flujo de trabajo en GitHub Actions para automatizar el proceso 
 - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 - [GitHub Actions](https://github.com/features/actions)
 
-## Autores
+## Autor
 
 ### Versión 2.0.0 - Astro
 
