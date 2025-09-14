@@ -8,7 +8,7 @@ Me llamo Vladimir Curiel, mis amigos me llaman Vladi. Mi primera experiencia con
 
 ## Educación
 
-En la [universidad] formé parte del [comité de la carrera](https://do.linkedin.com/in/ciccpucmm), de [Ingeniería en Ciencias de la Computación](https://ce-icc.pucmm.edu.do/) durante 3 años, donde tuve la oportunidad de organizar eventos y talleres de programación. [Ingresé como miembro](https://www.linkedin.com/in/vladimircuriel/details/volunteering-experiences/) en el 2023, ascendí a presidente en el 2024 y me mantuve en la directiva como encargado de logística y eventos en el 2025. Durante este tiempo, también participé en competencias de programación ICPC.
+En la universidad formé parte del [comité de la carrera](https://do.linkedin.com/in/ciccpucmm), de [Ingeniería en Ciencias de la Computación](https://ce-icc.pucmm.edu.do/) durante 3 años, donde tuve la oportunidad de organizar eventos y talleres de programación. [Ingresé como miembro](https://www.linkedin.com/in/vladimircuriel/details/volunteering-experiences/) en el 2023, ascendí a presidente en el 2024 y me mantuve en la directiva como encargado de logística y eventos en el 2025. Durante este tiempo, también participé en competencias de programación ICPC.
 
 Desde el 2023, he participado como Staff de eventos importantes del mundo de la tecnología a nivel nacional, como la [JConf Dominicana](https://jconfdominicana.org/?lang=es) 2023 - 2025, el [BarCamp](https://barcamp.org.do/) 2023 - 2025 y la [ICPC](https://icpc.global/) en el 2023. En estos eventos, he tenido la oportunidad de conocer a personas influyentes en el mundo de la tecnología y aprender de ellos.
 
