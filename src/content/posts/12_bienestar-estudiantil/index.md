@@ -87,7 +87,7 @@ Para estos fines, los endpoints utilizados fueron creados manualmente para ajust
 
 Se cuenta con un flujo de trabajo en GitHub Actions para automatizar el proceso de despliegue de la aplicación. El flujo de trabajo se ejecuta cada vez que se realiza un push en la rama main del repositorio. El flujo de trabajo construye el build de la aplicación y lo despliega directamente el los servidores de la PUCMM vía FTP.
 
-## Autor
+## Autores
 
 - [Vladimir Curiel](https://vladimircuriel.com/) - Desarrollador principal
 - [Freddy Peña](https://fredpena.dev/) - Profesor y supervisor del proyecto
