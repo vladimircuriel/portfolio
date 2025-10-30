@@ -3,7 +3,7 @@ title: CICC | Landing Page
 published: 2024-12-30
 description: "Landing page del Comité de Estudiantes de Ingeniería en Computación y Computación."
 image: "./cover.png"
-tags: [Astro, React, TailwindCSS, TypeScript, SWR, GitHub Actions, wordpress]
+tags: [Astro, React, TailwindCSS, TypeScript, SWR, GitHub Actions, Wordpress]
 category: "En Producción"
 draft: false
 ---
