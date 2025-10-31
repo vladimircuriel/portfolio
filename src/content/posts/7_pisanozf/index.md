@@ -11,7 +11,7 @@ draft: false
 [![Web](./homepage.png)](https://pisanozf.o5d.dev/)
 
 ## Visitar
-Para visitar la aplicación en línea, puedes hacer clic [aquí](https://pisanozf.o5d.dev/) o en la imagen de arriba.
+Para visitar la página en línea, puedes hacer clic [aquí](https://pisanozf.o5d.dev/) o en la imagen de arriba.
 
 # Pisano Zona Franca
 
