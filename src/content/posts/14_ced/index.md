@@ -11,7 +11,7 @@ draft: false
 [![Web](./homepage.webp)](https://ced.org.do/)
 
 ## Visitar
-Para visitar la aplicación en línea, puedes hacer clic [aquí](https://ced.org.do/) o en la imagen de arriba.
+Para visitar la página en línea, puedes hacer clic [aquí](https://ced.org.do/) o en la imagen de arriba.
 
 # Conferencia Episcopado Dominicano | Landing Page
 
@@ -71,4 +71,4 @@ Se cuenta con un flujo de trabajo en GitHub Actions para automatizar el proceso 
 
 ### Aclaraciones
 
-- Este proyecto fue realizado bajo la organización de la PUCMM, dichos son los proveedores de los servidores de la web y el desarrollo de la misma. Mi desarrollo en este proyecto es el que queda reflejado en esta página. Durante mi tiempo como desarrollador en la PUCMM. La página podría haber tenido desarrollos posteriores por otros miembros del equipo, los cuales no forman parte de mi trabajo y no puedo garantizar su calidad o funcionalidad.
+- Este proyecto fue realizado bajo la organización de la PUCMM, dichos son los proveedores de los servidores de la web y el desarrollo de la misma. Mi desarrollo en este proyecto es el que queda reflejado en esta página. La página podría haber tenido desarrollos posteriores por otros miembros del equipo, los cuales no forman parte de mi trabajo y no puedo garantizar su calidad o funcionalidad.
