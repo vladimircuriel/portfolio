@@ -11,7 +11,7 @@ draft: false
 [![Web](./homepage.webp)](https://bienestar-estudiantil.pucmm.edu.do/)
 
 ## Visitar
-Para visitar la aplicación en línea, puedes hacer clic [aquí](https://bienestar-estudiantil.pucmm.edu.do/) o en la imagen de arriba.
+Para visitar la página en línea, puedes hacer clic [aquí](https://bienestar-estudiantil.pucmm.edu.do/) o en la imagen de arriba.
 
 # Bienestar Estudiantil - PUCMM
 
