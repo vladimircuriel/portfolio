@@ -53,4 +53,4 @@ Neo Pokédex es una aplicación móvil cross-platform desarrollada en Flutter y 
 
 ### Repositorio de GitHub
 
-::github{repo="vladimircuriel/linkloom"}
+::github{repo="vladimircuriel/neo_pokedex"}
