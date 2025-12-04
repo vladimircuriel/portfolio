@@ -1,5 +1,5 @@
 ---
-title: Open House PUCMM 2025
+title: Open House PUCMM 2025 | Event Web Page
 published: 2025-02-21
 description: "Página web para el evento Open House PUCMM 2025."
 image: "./cover.png"

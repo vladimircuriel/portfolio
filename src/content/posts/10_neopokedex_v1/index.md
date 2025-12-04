@@ -1,5 +1,5 @@
 ---
-title: Neo Pokédex
+title: Neo Pokédex | Mobile App
 published: 2024-12-03
 description: 'Aplicación móvil para ver información de los pokemones consumiendo la PokeAPI con GraphQL (Pokédex).'
 image: './cover.png'
