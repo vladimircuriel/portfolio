@@ -18,5 +18,5 @@
 		"source.fixAll.biome": "explicit"
 	},
 	"frontMatter.dashboard.openOnStart": false,
-	"cSpell.words": ["Isolashes"]
+	"cSpell.words": ["Isolashes", "Observabilidad", "Zipkin"]
 }
