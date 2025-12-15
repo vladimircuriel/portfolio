@@ -1,5 +1,5 @@
 ---
-title: LogicMate
+title: LogicMate | AI Educational Assistant Bot
 published: 2025-07-23
 description: 'Bot de asistencia educativa basado en inteligencia artificial para analizar, clasificar y explicar programas de algoritmos y diagramas de programación a partir de clases virtuales'
 image: './cover.png'
