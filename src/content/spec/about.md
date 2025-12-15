@@ -22,4 +22,4 @@ En mi tiempo libre me gusta aprender y jugar videojuegos, por lo que en mis inic
 
 Me mantengo al tanto de las nuevas tecnologías e incluso de las polémicas que se generan en la comunidad de desarrollo.
 
-::github{repo="nightmareVCO/portfolio-v3"}
+::github{repo="vladimircuriel/portfolio-v3"}
