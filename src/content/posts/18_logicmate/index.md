@@ -108,6 +108,10 @@ Vista que muestra la integración con el calendario académico, permitiendo asoc
 
 ## Demo de la aplicación
 
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/txl8g-Pq3f4?si=qgn8qrxEXzVS2Crh" title="LogicMate Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## Documento detallado del proyecto
 
 <object data="/proyecto_de_grado.pdf" type="application/pdf" width="100%" height="1000">
