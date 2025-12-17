@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/vladimircuriel.jpg",
 	name: "Vladimir Curiel",
-	bio: "Ingeniero en Ciencias de la Computación | Desarrollo FullStack | Desarrollo Web | Ciencia de Datos | IA",
+	bio: "Ingeniero en Ciencias de la Computación | Desarrollo FullStack | Desarrollo Web | Ing. De Datos | Ciencia de Datos | IA",
 	links: [
 		{
 			name: "GitHub",
