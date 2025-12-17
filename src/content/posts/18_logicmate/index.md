@@ -154,3 +154,4 @@ Vista que muestra la integración con el calendario académico, permitiendo asoc
 
 - [Vladimir Curiel](https://vladimircuriel.com/) - Co-desarrollador
 - [Natasha Lopez](https://www.linkedin.com/in/natasha-lop-b22845337/) - Co-desarrolladora
+- [Lisibonny Beato](https://www.linkedin.com/in/lisibonnybeato/) - Asesora Académica del Proyecto
