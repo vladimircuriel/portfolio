@@ -3,8 +3,8 @@ title: The Quiz Challenge | Minería de Datos y Dashboard Interactivo
 published: 2024-11-27
 description: 'Dashboard interactivo para análisis descriptivo con clustering aplicado al canal de YouTube The Quiz Challenge.'
 image: "./cover.jpg"
-tags: [Tableau, Python, Jupyter Notebook, Scikit-Learn, NLTK, Pandas, YouTube API]
-category: "Proyecto"
+tags: ["Data Science", "Data Mining", "Data Visualization", "YouTube API", "ETL", "Tableau", "Python", "Clustering"]
+category: "En Producción"
 draft: false
 ---
 
