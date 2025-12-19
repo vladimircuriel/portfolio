@@ -10,7 +10,7 @@ import { LinkPreset } from "./types/config";
 export const siteConfig: SiteConfig = {
 	title: "Ing. Vladimir Curiel | Portfolio",
 	subtitle:
-		"Ingeniero en Ciencias de la Computación, especializado en el desarrollo de aplicaciones web, paginas web, ciencia de datos, IA, y más.",
+		"Ingeniero en Ciencias de la Computación | Ing. de Software | Ing. de Datos | Ciencia de Datos | IA",
 	lang: "es",
 	themeColor: {
 		hue: 285,
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/vladimircuriel.jpg",
 	name: "Vladimir Curiel",
-	bio: "Ingeniero en Ciencias de la Computación | Desarrollo FullStack | Desarrollo Web | Ing. De Datos | Ciencia de Datos | IA",
+	bio: "Ingeniero en Ciencias de la Computación | Ing. de Software | Ing. de Datos | Ciencia de Datos | IA",
 	links: [
 		{
 			name: "GitHub",
