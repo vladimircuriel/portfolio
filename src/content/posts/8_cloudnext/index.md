@@ -11,7 +11,7 @@ draft: false
 [![Web](./files.webp)](https://cloudnext.o5d.dev/)
 
 ## Visitar
-Para visitar la aplicación en línea, puedes hacer clic [aquí](https://ll.o5d.dev/) o en la imagen de arriba.
+Para visitar la aplicación en línea, puedes hacer clic [aquí](https://cloudnext.o5d.dev/) o en la imagen de arriba.
 
 # CloudNext
 
