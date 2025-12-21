@@ -1,10 +1,10 @@
 ---
-title: LogicMate | AI Educational Assistant Bot
+title: LogicMate | AI Educational Assistant Bot [Thesis Project]
 published: 2025-07-23
 description: 'Bot de asistencia educativa basado en inteligencia artificial para analizar, clasificar y explicar programas de algoritmos y diagramas de programación a partir de clases virtuales'
 image: './cover.png'
 tags: [Python, PySceneDetect, OpenCV, YOLOv12, Roboflow, DINOv2, Transformers, SuryaOCR, OpenAIAPI, FastAPI, React, NextJS, MongoDB, Celery, Redis, Docker, MicrosoftGraphAPI, MicrosoftTeams]
-category: 'Proyecto de Grado'
+category: 'Proyecto'
 draft: false
 ---
 
