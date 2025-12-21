@@ -1,5 +1,5 @@
 ---
-title: Mockify
+title: Mockify | API Mocking Tool
 published: 2025-03-13
 description: 'Aplicación web para crear mock de APIs REST en proyectos de desarrollo'
 image: './cover.png'
