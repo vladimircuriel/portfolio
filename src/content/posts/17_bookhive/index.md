@@ -1,5 +1,5 @@
 ---
-title: BookHive
+title: BookHive | Microservices Bookstore Platform
 published: 2025-04-28
 description: "BookHive es una plataforma moderna de catálogo de libros para compra, búsqueda y reseña de títulos, con micro-servicios escalables."
 image: "./cover.png"
