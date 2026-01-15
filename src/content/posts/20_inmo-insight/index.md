@@ -8,7 +8,7 @@ category: 'Proyecto'
 draft: false
 ---
 
-[![Dashboard](./dashboard.png)](public.tableau.com/app/profile/vladimir.curiel3109/viz/inmo-insight/Dashboard1)
+[![Dashboard](./dashboard.png)](https://public.tableau.com/app/profile/vladimir.curiel3109/viz/inmo-insight/Dashboard1)
 
 ## Visitar
 Para ver el dashboard en línea, entra [aquí](https://public.tableau.com/app/profile/vladimir.curiel3109/viz/inmo-insight/Dashboard1) o haz clic en la imagen de arriba.
