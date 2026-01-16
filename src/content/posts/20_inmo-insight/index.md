@@ -4,7 +4,7 @@ published: 2026-01-14
 description: 'Pipeline end-to-end de ingeniería de datos con Apache Airflow, web scraping, enriquecimiento con IA, modelo predictivo XGBoost y dashboard interactivo en Tableau para análisis del mercado de alquiler de apartamentos.'
 image: './cover.png'
 tags: [Python, Apache Airflow, PostgreSQL, XGBoost, Scikit-Learn, OpenAI API, BeautifulSoup, Tableau, Docker, ETL, Machine Learning, Web Scraping, Data Engineering]
-category: 'Proyecto'
+category: 'En Producción'
 draft: false
 ---
 
