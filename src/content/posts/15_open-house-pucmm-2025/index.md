@@ -39,7 +39,7 @@ Para el backend se utilizó SpringBoot, el cual se encarga de manejar la lógica
 
 ## Repositorio de GitHub
 
-::github{repo="cicc-pucmm/OpenHouse-2025"}
+::github{repo="cicc-pucmm/open-house-web-app-2025"}
 
 ## Autores
 
